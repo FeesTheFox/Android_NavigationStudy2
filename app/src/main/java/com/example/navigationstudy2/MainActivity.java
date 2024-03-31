@@ -10,6 +10,7 @@ import android.view.View;
 
 import com.example.navigationstudy2.databinding.ActivityMainBinding;
 
+
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     @Override
